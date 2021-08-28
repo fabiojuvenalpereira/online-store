@@ -9,7 +9,7 @@ export default class Carrousel extends React.Component {
   render() {
     return (
       <div>
-        teste
+        teste denovo
       </div>
     );
   }
