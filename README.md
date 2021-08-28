@@ -2,7 +2,7 @@
 ## Online store foi um projeto de frontend da trybe
 #### Utilizado para colocar em prática as habilidades adquiridas com React
 #### Para acompanhar o resultado do projeto clique aqui --> https://fabiojuvenalpereira.github.io/online-store/
-####Caso queira conhecer a TRYBE é só clicar na imagem
+#### Caso queira conhecer a TRYBE é só clicar na imagem
 [![N|trybe](https://uploads-ssl.webflow.com/5fba98ad987231cf0efa3d58/5fba9c9a93a2e77624258d49_Logo.svg)](https://www.betrybe.com/)
 
 #### Resumo
@@ -48,5 +48,6 @@ Como gerenciador de Pacote Foi Utilizado  -> [Node.js](https://nodejs.org/) v14+
 - [Developer mozilla] - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 - [Stack Overflow] - https://stackoverflow.com/
 - [W3 Schools] - https://www.w3schools.com/jsref/default.asp
+
 ### Agradecimentos
-Agradecimentos a todos que colaboraram para o desenvolvimento deste projeto. Alex Correa, Aquiles Dantas e Pedro Brito.
+Agradecimentos a todos que colaboraram para o desenvolvimento deste projeto. Alex Correa, Aquiles Dantas e Pedro Brito. E um agradecimento especial, pela colaboração das pessoas instrutoras da Trybe para o desenvolvimento do projeto.
