@@ -2,30 +2,32 @@
 ## Online store foi um projeto de frontend da trybe
 #### Utilizado para colocar em prática as habilidades adquiridas com React
 #### Para acompanhar o resultado do projeto clique aqui --> https://fabiojuvenalpereira.github.io/online-store/
-#### Caso queira conhecer a TRYBE é só clicar na imagem
-[![N|trybe](https://uploads-ssl.webflow.com/5fba98ad987231cf0efa3d58/5fba9c9a93a2e77624258d49_Logo.svg)](https://www.betrybe.com/)
 
-#### Resumo
+### TRYBE
+#### Quer conhecer mais sobre a [TRYBE](https://www.betrybe.com/)?  Dê uma olhadinha neste link a seguir:
+[![N|trybe](https://assets-global.website-files.com/61549abf6fb9ca5e91bc5709/61549abf6fb9ca4630bc5747_Logo.svg)](https://www.betrybe.com/)
+
+### Resumo
 Online Store foi um projeto muito desafiador. Além de ser um projeto extenso, foi também, o primeiro projeto realizado em grupo.
 
 Neste projeto, o foco principal foi o desenvolvimento de habilidades de soft e hard skills, além, da empregabilidade de metodologias ágeis. 
 
 
 
-#####Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
+###Para desenvolver este projeto foram utilizadas as seguintes ferramentas:
 - REACT
 - HTML
 - CSS
 - JavaScript
 
-#### Programa utilizados para desenvolver a aplicação 
+### Programa utilizados para desenvolver a aplicação 
 - [Visual Code Studio] - O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
 
-#### Links dos Softwares Utilizados
+### Links dos Softwares Utilizados
 Link para Download do -> [VScode](https://code.visualstudio.com/)
 Como gerenciador de Pacote Foi Utilizado  -> [Node.js](https://nodejs.org/) v14+ para rodar.
 
-###### Extensões do Vscode que estou usando atualmente:
+### Extensões do Vscode que estou usando atualmente:
 - stylelint
 - Prettier
 - Material Icon Theme
@@ -41,8 +43,6 @@ Como gerenciador de Pacote Foi Utilizado  -> [Node.js](https://nodejs.org/) v14+
 - GitHub Theme
 - ESLint
 - Atom One Dark Theme
-#### Licença
-**Free** :eyes:
 
 #### Os links abaixo contém alguns sites e fóruns, de onde foram retiradas algumas referências:
 - [Developer mozilla] - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
